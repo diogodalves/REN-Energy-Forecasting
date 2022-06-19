@@ -1,8 +1,8 @@
 # REN Energy Forecasting
 ## Energy Consumption Forecast
 
-Data:
-Interface - Energy Consumption
+Data:  
+Interface - Energy Consumption  
 Local Generation - PV Modules Energy Generation
 
 ## First Part - Fit SARIMAX, Residual Evaluation and  Fit ARCH to SARIMAX Residuals for Volatility Forecast
