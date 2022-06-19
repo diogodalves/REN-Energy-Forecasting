@@ -22,7 +22,7 @@ Local Generation - PV Modules Energy Generation
 
 ![Alt text](images/workflow_ts.png?raw=true "Time Series Workflow")
 
-## Second Part - Fit LSTM based Architectures to Extract Non Linearity on Data
+## Second Part - Fit CNN - LSTM based Architectures to Extract Non Linearity on Data
 ### 1
 - Bidirectional LSTM for Interface Forecasting
 - Bidirectional LSTM for Volatility Forecasting
