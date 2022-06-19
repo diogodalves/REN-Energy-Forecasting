@@ -1,4 +1,4 @@
-# REN Energy Forecasting
+# REN Energy Consumption Forecasting
 ## Energy Consumption Forecast
 
 Data:  
