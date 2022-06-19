@@ -20,6 +20,7 @@ Local Generation - PV Modules Energy Generation
 - Fit ARCH on Heteroskedastic Residuals
 - Test SARIMAX Forecast
 
+### Part 1 Workflow
 ![Alt text](images/workflow_ts.png?raw=true "Time Series Workflow")
 
 ## Second Part - Fit CNN - LSTM based Architectures to Extract Non Linearity on Data
@@ -42,4 +43,5 @@ Local Generation - PV Modules Energy Generation
 ### 5
 - Ouput Layer for Prediction
 
+### Neural Network Proposal Architecture
 ![Alt text](images/hybrid_model.png?raw=true "CNN - Bidirectional LSTM - Volatility Model")
